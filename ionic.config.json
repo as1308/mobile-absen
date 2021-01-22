@@ -1,0 +1,7 @@
+{
+  "name": "absensi-appmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
